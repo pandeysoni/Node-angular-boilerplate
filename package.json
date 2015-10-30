@@ -1,6 +1,6 @@
 {
-  "name": "expaus",
-  "description": "expaus",
+  "name": "node-angular-boilerplate",
+  "description": "node angular structure",
   "version": "0.1.0",
   "main": "server",
   "engines": {
@@ -16,5 +16,9 @@
     "mongoose": "3.8.x",
     "request": "^2.44.0",
     "bower": "~1.6.3"
+  },
+  "author": {
+    "name": "sonipandey",
+    "email": "sonipandey.71@gmail.com"
   }
 }
